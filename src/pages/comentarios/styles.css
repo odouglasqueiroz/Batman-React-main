@@ -1,0 +1,90 @@
+
+.cards-coment {
+    width: 100%;
+    justify-content:center;
+    margin-top: 50px;
+  
+}
+
+.pag-coment {
+    width: 80%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    row-gap: 50px;
+    column-gap: 30px;
+}
+
+.pag {
+    width: 400px;
+    height: 400px;
+    background-size: cover;
+    background-position: 10% 10%;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 1s;
+    display: flex;
+    flex-direction: column;
+    padding: 0 0 10px 10px;
+    color: #fff;
+    font-size: 11px;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+
+}
+
+#coment{
+    border-top: 50px;
+    border-radius: 50%;
+    width: 15%;
+    height: 15%;
+}
+
+.coment-1 {
+    background-color: #fff;
+    color: black;
+
+}
+
+
+.coment-2 {
+    background-color: #ef6464;
+    color: black;
+    
+}
+
+
+.coment-3 {
+    background-color: #fff;
+    color: black;
+}
+
+.coment-4 {
+    background-color: #ef6464;
+    color: black;
+}
+
+.coment-5 {
+    background-color: #fff;
+    color: black;
+
+   
+}
+
+.coment-6 {
+    background-color: #ef6464;
+    color: black;
+}
+
+.coment-7 {
+    background-color: #fff;
+    color: black;
+}
+
+.coment-8 {
+    background-color: #ef6464;
+    color: black;
+}
+
+.coment-9 {
+    background-color: #fff;
+    color: black;
+}

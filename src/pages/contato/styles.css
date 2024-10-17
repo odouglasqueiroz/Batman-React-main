@@ -1,0 +1,16 @@
+
+
+.pag-contact {
+
+    width: 100%;
+    display: grid;
+    align-content: center;
+    grid-auto-columns: auto;
+    color: #fff;
+}
+
+.contact-1 {
+    text-align: center;
+    margin-top: 200px;
+}
+
